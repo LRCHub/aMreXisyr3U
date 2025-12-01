@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Brave Song",
+  "base_artist": "多田葵、VISUAL ARTS / Key",
+  "createdAt": "2025-12-01T08:26:03.897942Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Brave Song (Gldemo version)",
+      "artist": "Girls Dead Monster",
+      "has_synced": true,
+      "path": "select/01_Brave_Song_(Gldemo_version)_Girls_Dead_Monster.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Brave Song (Girls Dead Monster version)",
+      "artist": "Girls Dead Monster",
+      "has_synced": true,
+      "path": "select/02_Brave_Song_(Girls_Dead_Monster_version)_Girls_Dead_Monster.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Brave Song",
+      "artist": "多田葵",
+      "has_synced": true,
+      "path": "select/03_Brave_Song_多田葵.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Brave Song (Gldemo ver.)",
+      "artist": "Lisa",
+      "has_synced": true,
+      "path": "select/04_Brave_Song_(Gldemo_ver.)_Lisa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Brave Song (TV Size)",
+      "artist": "多田葵",
+      "has_synced": true,
+      "path": "select/05_Brave_Song_(TV_Size)_多田葵.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Brave Song",
+      "artist": "Tada Aoi (多田葵)",
+      "has_synced": true,
+      "path": "select/06_Brave_Song_Tada_Aoi_(多田葵).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Brave song",
+      "artist": "Girl Dead Monster",
+      "has_synced": true,
+      "path": "select/07_Brave_song_Girl_Dead_Monster.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Brave Song",
+      "artist": "Girls Dead Monster",
+      "has_synced": true,
+      "path": "select/08_Brave_Song_Girls_Dead_Monster.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Brave Song",
+      "artist": "Aoi Tada",
+      "has_synced": true,
+      "path": "select/09_Brave_Song_Aoi_Tada.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Brave Song (GirlDeMo Version)",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/10_Brave_Song_(GirlDeMo_Version)_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Brave Song",
+      "artist": "Tada Aoi",
+      "has_synced": true,
+      "path": "select/11_Brave_Song_Tada_Aoi.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Brave Song (TV Size)",
+      "artist": "Tada Aoi",
+      "has_synced": false,
+      "path": "select/12_Brave_Song_(TV_Size)_Tada_Aoi.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Brave Song",
+      "artist": "Tada, Aoi",
+      "has_synced": true,
+      "path": "select/13_Brave_Song_Tada,_Aoi.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Brave Song (TV Size)",
+      "artist": "多田葵",
+      "has_synced": false,
+      "path": "select/14_Brave_Song_(TV_Size)_多田葵.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Brave Song",
+      "artist": "大石秀一郎 (近藤孝行)",
+      "has_synced": false,
+      "path": "select/pl_01_Brave_Song_大石秀一郎_(近藤孝行).txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Brave Song",
+      "artist": "大石秀一郎 (近藤孝行)",
+      "has_synced": false,
+      "path": "select/pl_02_Brave_Song_大石秀一郎_(近藤孝行).txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "brave song",
+      "artist": "大石秀一郎 (近藤孝行)",
+      "has_synced": false,
+      "path": "select/pl_03_brave_song_大石秀一郎_(近藤孝行).txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Brave Song",
+      "artist": "大石秀一郎 (近藤孝行)",
+      "has_synced": false,
+      "path": "select/pl_04_Brave_Song_大石秀一郎_(近藤孝行).txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Brave Song (Gldemo ver.)",
+      "artist": "大石秀一郎 (近藤孝行)",
+      "has_synced": false,
+      "path": "select/pl_05_Brave_Song_(Gldemo_ver.)_大石秀一郎_(近藤孝行).txt"
+    }
+  ]
+}
